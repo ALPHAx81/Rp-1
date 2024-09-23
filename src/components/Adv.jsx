@@ -18,9 +18,9 @@ const Adv = () => {
 
     
         <div className="brand-icons">
-         <img src="public/images\flipkart.png" alt="flipkart-logo" />
-         <img src="public/images\amazon.png" alt="amazon-logo" />
-         <img src="public/images\close-up-futuristic-sneakers (2).jpg" alt="main-logo" />
+         <img src="\flipkart.png" alt="flipkart-logo" />
+         <img src="\amazon.png" alt="amazon-logo" />
+         <img src="\close-up-futuristic-sneakers (2).jpg" alt="main-logo" />
 
                     </div>
       </div>
