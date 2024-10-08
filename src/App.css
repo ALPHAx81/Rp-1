@@ -44,7 +44,7 @@ button {
 
 .Adv h1 {
     font-weight: 800;
-    font-size: 72px; 
+    font-size: 72px; /* Reduced to fit better */
     line-height: 1.2;
 }
 
@@ -61,9 +61,9 @@ button {
 .Adv img {
     max-width: 100%;
     height: auto;
-    object-fit: contain; 
-    border-radius: 10px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    object-fit: contain; /* Ensures the image maintains its aspect ratio */
+    border-radius: 10px; /* Optional: add rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add shadow for a professional touch */
 }
 
 .container {
